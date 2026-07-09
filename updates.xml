@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='noljfofpphomekngbkflbmepbmpgjhgd'>
-    <updatecheck codebase='https://rahkovskysolutions.github.io/nicklpass-agent-dist/nicklpass-agent.crx' version='0.2.14' />
+    <updatecheck codebase='https://rahkovskysolutions.github.io/nicklpass-agent-dist/nicklpass-agent.crx' version='0.2.15' />
   </app>
 </gupdate>
